@@ -1,4 +1,0 @@
-﻿  Game.cpp
-LINK : warning LNK4075: 忽略 '/INCREMENTAL'，由於 '/PROFILE' 規格
-AI.obj : warning LNK4075: 忽略 '/EDITANDCONTINUE'，由於 '/OPT:REF' 規格
-  system2.vcxproj -> D:\下載\象棋最終版\x64\Debug\ChineseChess.exe
