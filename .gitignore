@@ -41,5 +41,4 @@
 .vs
 Debug
 SaveData
-*.vcxproj
-*.rec
+*.user
