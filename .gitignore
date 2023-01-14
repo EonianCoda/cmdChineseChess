@@ -40,3 +40,6 @@
 
 .vs
 Debug
+SaveData
+*.vcxproj
+*.rec
