@@ -2,7 +2,7 @@
 **#2018 Object Oriented Programming Course Project in NTUST**<br>
 
 ## Introduction
-- A chinesChess game running at windows comman line. 
+- A chineseChess game running at windows comman line. 
 - The project is built by visual studio 2019.
 - The game is written in C++ and the UI is implemented by windows API.
 - Features: 
