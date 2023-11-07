@@ -42,3 +42,4 @@
 Debug
 SaveData
 *.user
+!project/chinese_chess/ChineseChess.exe
